@@ -53,8 +53,8 @@ namespace TiTacToe.WPF.ViewModels
             Board.Clear();
             foreach (var i in _board)
             {
-                var squere = new Square(i);
-                Board.Add(new SquareWrapper(squere, _eventAggregator));
+                var square = new Square(i);
+                Board.Add(new SquareWrapper(square, _eventAggregator));
             }
 
             _round = 0;
