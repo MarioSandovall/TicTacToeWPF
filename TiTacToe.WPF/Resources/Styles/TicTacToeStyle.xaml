@@ -47,7 +47,7 @@
 
     <Style x:Key="PlayerBorder" TargetType="Border">
         <Setter Property="CornerRadius" Value="5"/>
-        <Setter Property="Width" Value="200"/>
+        <Setter Property="Width" Value="250"/>
         <Setter Property="Margin" Value="5"/>
         <Setter Property="HorizontalAlignment" Value="Center"/>
         <Setter Property="VerticalAlignment" Value="Center"/>
