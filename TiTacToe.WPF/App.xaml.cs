@@ -1,7 +1,7 @@
 ﻿using Autofac;
 using System.Windows;
+using TiTacToe.Business.ViewModels;
 using TiTacToe.WPF.Startup;
-using TiTacToe.WPF.ViewModels;
 
 namespace TiTacToe.WPF
 {
